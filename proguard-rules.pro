@@ -1,0 +1,2 @@
+-keep class com.example.swoopa_clone.model.Car { *; }
+-keep class com.example.swoopa_clone.** { *; }

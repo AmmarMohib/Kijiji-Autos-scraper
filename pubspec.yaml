@@ -1,0 +1,24 @@
+name: swoopa_clone
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  chaleno: ^0.0.7
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  url_launcher: ^6.3.0
+  web_scraper: ^0.1.4
+  webview_flutter: ^2.0.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
